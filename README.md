@@ -6,7 +6,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/omgette/omgette.github.io) 
 ![GitHub forks](https://img.shields.io/github/forks/omgette/omgette.github.io)
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/omgette/omgette.github.io/commits/main)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://omgette.github.io/)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://varadbhogayata.github.io/)
 [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/olivia-gette-2702062a7/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
