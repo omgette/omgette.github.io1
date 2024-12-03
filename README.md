@@ -1,4 +1,4 @@
-# Welcome to My GitHub Page!
+# Welcome to My Portfolio!
 
 ## Connect With Me
 <div align="left">
