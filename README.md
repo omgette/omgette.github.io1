@@ -1,14 +1,10 @@
 # Welcome to My GitHub Page!
 
-## Links
-
-- [LinkedIn](https://www.linkedin.com/in/olivia-gette-2702062a7/)  
-- [GitHub](https://github.com/omgette)
-
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/omgette/omgette.github.io/commits/main)
+## Connect With Me
 [![Contact Me](https://img.shields.io/badge/Email-Contact%20Me-blue)](olivia.gette@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/olivia-gette-2702062a7/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Visit-lightgrey?style=for-the-badge&logo=github)](https://github.com/omgette)
 [![Download Resume](https://img.shields.io/badge/Resume-Download-brightgreen)](Gette_Olivia_Resume.pdf)
-[(https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/olivia-gette-2702062a7/)
 
 ## About Me
 
@@ -23,5 +19,5 @@ My name is Olivia Gette, I am a third year Data Science major at Michigan Techno
 
 ## Projects Showcase
 
-### [Data1201: Data Science Portfolio](https://github.com/omgette/data1201)
-This repository showcases various data science projects, including data cleaning, hypothesis testing, and visualization techniques.
+### [DATA1201: Data Science Portfolio](https://github.com/omgette/data1201)
+This repository showcases various data science projects, including data cleaning, learning Linux fundamentals, and controlling files.
