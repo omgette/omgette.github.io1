@@ -1,19 +1,14 @@
 # Welcome to My GitHub Page!
 
 ## Connect With Me
-[![Email Me](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](olivia.gette@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/olivia-gette-2702062a7/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Visit-lightgrey?style=for-the-badge&logo=github)](https://github.com/omgette) 
-[![Download Resume](https://img.shields.io/badge/Resume-Download-green?style=for-the-badge)](Gette_Olivia_Resume.pdf)
-
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/olivia-gette-2702062a7/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://github.com/omgette">
     <img src="https://img.shields.io/badge/GitHub-Visit-lightgrey?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="mailto:olivia.gette@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=olivia.gette@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" alt="Email Me">
   </a>
   <a href="Gette_Olivia_Resume.pdf">
