@@ -19,9 +19,10 @@
 ## About Me
 
 My name is Olivia Gette, I am a third year Data Science major at Michigan Technological University. I have a passion for data analysis and medical device technology. As a student-athlete and a dedicated learner, I strive to merge analytical rigor with creative problem-solving. My current goal is to secure an internship that allows me to apply my skills in a real-world setting while being able to contribute to impactful projects.
-<div style="text-align: center;">
+<div style="text-align: left;">
     <img src="https://github.com/omgette/omgette.github.io/blob/main/IMG_0563.jpg" alt="Olivia Gette" width="200" align="left">
 </div>
+---
 
 ## Skills
 
