@@ -1,10 +1,10 @@
 # Welcome to My GitHub Page!
 
 ## Connect With Me
-[![Contact Me](https://img.shields.io/badge/Email-Contact%20Me-blue)](olivia.gette@gmail.com)
+[![Email Me](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](olivia.gette@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/olivia-gette-2702062a7/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Visit-lightgrey?style=for-the-badge&logo=github)](https://github.com/omgette)
-[![Download Resume](https://img.shields.io/badge/Resume-Download-brightgreen)](Gette_Olivia_Resume.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub-Visit-lightgrey?style=for-the-badge&logo=github)](https://github.com/omgette) 
+[![Download Resume](https://img.shields.io/badge/Resume-Download-green?style=for-the-badge)](Olivia_Gette_Resume.pdf)
 
 ## About Me
 
