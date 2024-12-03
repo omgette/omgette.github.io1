@@ -32,10 +32,6 @@ My name is Olivia Gette, I am a third year Data Science major at Michigan Techno
 ### [DATA1201: Data Science Portfolio](https://github.com/omgette/data1201)
 This repository showcases various data science projects, including data cleaning, learning Linux fundamentals, and controlling files.
 
-# Me
-
 <div style="text-align: left;">
     <img src="https://github.com/omgette/omgette.github.io/blob/main/IMG_0563.jpg" alt="Olivia Gette" width="200" align="left">
 </div>
-
----
