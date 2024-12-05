@@ -32,10 +32,6 @@ I am a third year Data Science Student at Michigan Technological University. I e
 ### [DATA1201: Data Science Portfolio](https://github.com/omgette/data1201)
 This repository showcases various data science projects, including data cleaning, learning Linux fundamentals, and controlling files.
 
-<div style="text-align: left;">
-    <img src="https://github.com/omgette/omgette.github.io/blob/main/IMG_0563.jpg" alt="Olivia Gette" width="200" align="left">
-</div>
-
 ### [Exploring Polynomial Interpolation](https://github.com/omgette/omgette.github.io/blob/main/FinalProject.ipynb)
 Explores the stability and accuracy of different polynomial interpolation methods
 
