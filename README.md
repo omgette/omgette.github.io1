@@ -36,5 +36,5 @@ This repository showcases various data science projects, including data cleaning
 Explores the stability and accuracy of different polynomial interpolation methods
 
 <div style="text-align: left;">
-    <img src="https://github.com/omgette/omgette.github.io/blob/main/IMG_0563.jpg" alt="Olivia Gette" width="200" align="left">
+    <img src="https://github.com/omgette/omgette.github.io/blob/main/assets/img/oliviagette.jpg" alt="Olivia Gette" width="200" align="left">
 </div>
